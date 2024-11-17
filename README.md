@@ -37,6 +37,6 @@ Below are the visualization of the final model predictions.
 ![Prediction1](https://tinyurl.com/46nntrh7)
 ![Prediction2](https://tinyurl.com/d23ukr7v)
 
-## Interested?
+## Contact me
 The fastest way to contact me is by shooting me an email to: arabis3@mcmaster.ca
 
