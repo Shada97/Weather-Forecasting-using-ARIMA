@@ -24,6 +24,8 @@ The implementation process includes:
 7. **Model validation**: Evaluating both models' performance using mean square error and comparing the results to actual data.
 
 ## Results
+### Manual ARIMA model preidction
+![Prediction1](https://tinyurl.com/46nntrh7)
 
 | Accuracy Metrics       | Manual - ARIMA (1, 1, 1) × (0, 1, 1)<sub>52</sub>       |
 |-----------------|----------------|
@@ -32,10 +34,16 @@ The implementation process includes:
 | MAE    | 2.429  |
 | MAPE   | 3.298  |
 
-Below are the visualization of the final model predictions.
-
-![Prediction1](https://tinyurl.com/46nntrh7)
+### Auto ARIMA model prediction
 ![Prediction2](https://tinyurl.com/d23ukr7v)
+
+| Accuracy Metrics | Auto - ARIMA (5, 1, 0) × (2, 1, 1)₅₂ |
+|-------------------|---------------------------------------|
+| MPE               | 3.402                                 |
+| MSE               | 10.029                                |
+| MAE               | 2.535                                 |
+| MAPE              | 3.596                                 |
+
 
 ## Contact me
 The fastest way to contact me is by shooting me an email to: arabis3@mcmaster.ca
