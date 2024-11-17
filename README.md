@@ -3,6 +3,12 @@
 
 Accurate weather forecasting is crucial for various societal functions, including scheduling, resource allocation, air traffic management, and disaster mitigation. Inaccurate forecasts can disrupt logistics, agriculture, energy management, and even lead to loss of life. This project focuses on developing a robust weather forecasting model using historical time series weather data. It will cover the dataset used, the chosen forecast model, the development methodology, and an analysis of the training and prediction results.
 
+## Dataset
+
+The historical weather dataset utilized in this project is sourced from <a href="https://www.ncei.noaa.gov/cdo-web/datasets"> NOAA Climate Data Online (CDO)</a>, which is a comprehensive archive recording climate data from
+weather stations around the world. For demonstration purposes, our project would base
+the forecast model on one of the climate variables originating from the region of Toronto
+Pearson international Airport.
 
 ## Methodology
 
@@ -28,6 +34,9 @@ The implementation process includes:
 
 Below are the visualization of the final model predictions.
 
-![Alt text]()
-![Alt text](URL)
+![Prediction1](https://tinyurl.com/46nntrh7)
+![Prediction2](https://tinyurl.com/d23ukr7v)
+
+## Interested?
+The fastest way to contact me is by shooting me an email to: arabis3@mcmaster.ca
 
